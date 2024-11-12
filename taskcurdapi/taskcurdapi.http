@@ -1,0 +1,6 @@
+@taskcurdapi_HostAddress = http://localhost:5231
+
+GET {{taskcurdapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
